@@ -86,7 +86,7 @@ The validation rule is essentially the same across the various vaccines that are
 _Vaccine doses given <= Vaccine doses used and wasted_
 
 Let us apply this rule using BCG as an example.
-
+Please I have note here  that in image showing 15 doses recived I think BCG is 20 doses per vial , also showing that BCG can not be dameg by frozen so its better if showing it disble "blank gray"
 1. Vaccine doses given = BCG doses given < 1 year + BCG doses given ≥ 1 year
 2. Vaccine doses used and wasted = `(BCG starting balance + BCG received) - (BCG VVM + BCG frozen + BCG expired + BCG broken + BCG missing + BCG ending balance)`
 
